@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Frederick Johannson</h1>
-<h3 align="center">Passionate data scientist from Berlin</h3>
+<h3 align="center">Passionate data science developer from Berlin</h3>
 
 - 📫 How to reach me **f.johannson@hotmail.de**
 
